@@ -1,0 +1,12 @@
+#PATIENT_ID	SAMPLE_ID	CANCER_TYPE	TISSUE_SOURCE_SITE	TUMOR_TISSUE	TUMOR_MOLECULAR_SUBTYPE	TMB	HRD	T	N	M	ECOG	HER2	EBV	HPV	PDL1	PR	ER	MSI	GERMLINE_MUTATION
+#Unique Patient Identifier	Unique Sample Identifier	Cancer type	Tissue source site	Tumor tissue size	Tumor molecular subtype	TMB	HRD	T	N	M	ECOG	HER2	EBV	HPV	PDL1	PR	ER	MSI	Exist germline mutation or not
+#STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+#1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+SAMPLE_ID	PATIENT_ID	CANCER_TYPE_DETAILED	TISSUE_SOURCE_SITE	TUMOR_TISSUE	TUMOR_MOLECULAR_SUBTYPE	TMB	HRD	T	N	M	ECOG	HER2	EBV	HPV	PDL1	PR	ER	MSI	GERMLINE_MUTATION
+MOLIT-5679cb	8c52a4b0-fae9-4cd3-a4d6-97d850a4076a	Secondary malignant neoplasm of liver and intrahepatic bile ducts	klinikum 					T2a	N1	M0	ECOG 1: (Einschränkung bei körperlicher Anstrengung								
+MOLIT-e19430	523f7133-1710-466e-8e2c-7d1ea78304c3 	Malignant neoplasm of ovary	klinikum 	0.8	Epithelialer Tumor	low		T3	N0	M0		Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	No
+MOLIT-8698a2	2b4aeb7c-c9e8-4c7f-9379-1f96f1b5d5cb 	Malignant neoplasm of rectum	klinikum 		Karzinom			TX	Nx	M1	ECOG 1: (Einschränkung bei körperlicher Anstrengung								Yes
+MOLIT-41ec0e	3aa1c7fb-90b5-43e2-bc3f-68ed471af187	Malignant neoplasm: Oesophagus, unspecified	klinikum 		Adenokarzinom			T3	N0	M1	ECOG 0 (Normale								No
+MOLIT-301348	ddf29229-8b1c-48df-bdd9-d97c6896d365 	Malignant neoplasm: Cardia	klinikum 		Karzinom			T3	N1	M0	ECOG 0 (Normale								Yes
+MOLIT-0934c4	7be4d94e-5f93-49ac-b416-0e19163a6c58	Malignant neoplasm: Duodenum	klinikum 		Adenokarzinom			T4	N2	M0	ECOG 1: (Einschränkung bei körperlicher Anstrengung								No
+MOLIT-92d453	fdfc3b53-617a-4ac1-b4d6-91d5b249bb90	Malignant neoplasm of ovary	klinikum 		Epithelialer Tumor			T2a	N1	M0	ECOG 0 (Normale								Yes

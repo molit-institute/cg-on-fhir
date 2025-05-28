@@ -1,0 +1,11 @@
+reasonId,therapyId,MedicationCode,MedicationName,other,GeneticReason,comments
+c9Tv,202d1,L01XC41,Trastuzumab ,,ERBB2 (SNV,
+kuRN,1eb33,L01XC14,Trastuzumab,,ERBB2 (SNV,
+wDde,faa1f,L01EM03,Alpelisib,,PIK3CA (SNV,
+xqU5,e1bea,L01XC41,Trastuzumab ,,ERBB2 (SNV,
+FoFU,0efe1,L01XC18,Pembrolizumab,,ARID1A (SNV,
+4IrM,0efe1,L01EE01,Trametinib,,RASA1 (SNV,
+uI7t,e2c31,L01XC18,Pembrolizumab,,ARID1A (SNV,
+WMF5,2dbdd,L01XE10,Everolimus,,PTEN (SNV,
+Ed7z,0dd1b,L01XK01,Olaparib,,BRCA2 (SNV,
+8lSw,31cc2,L01XE38,Cobimetinib,,KRAS (SNV,

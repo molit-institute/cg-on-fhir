@@ -1,0 +1,6 @@
+cancer_study_identifier:	data_export_study
+stable_id:	data_export_study_sequenced
+case_list_name:	Samples with mutation data
+case_list_description:	Samples with mutation data (7 samples)
+case_list_category:	all_cases_with_mutation_data
+case_list_ids:	MOLIT-5679cb	MOLIT-e19430	MOLIT-8698a2	MOLIT-41ec0e	MOLIT-301348	MOLIT-0934c4	MOLIT-92d453
