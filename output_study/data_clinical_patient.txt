@@ -1,0 +1,12 @@
+#PATIENT_ID	AGE	GENDER	INDICATION	DIAGNOSIS_DATE	ICD_10	OS_MONTHS	OS_STATUS	DSS_STATUS	UICC	DFS_MONTHS	DFS_STATUS
+#Unique Patient Identifier	Age of the patient	Gender of the patient	Patient disease history	Date of initial diagnosis in YYYY-MM-DD format	ICD 10 Classification	Overall survival months	Overall survival status	Disease status	Stage to define the anatomical extent of disease	DFS_MONTHS	DFS_STATUS
+#STRING	NUMBER	STRING	STRING	STRING	STRING	NUMBER	STRING	STRING	STRING	NUMBER	STRING
+#1	1	1	1	1	1	1	1	1	1	1	1
+PATIENT_ID	AGE	GENDER	INDICATION	DIAGNOSIS_DATE	ICD_10	OS_MONTHS	OS_STATUS	DSS_STATUS	UICC	DFS_MONTHS	DFS_STATUS
+8c52a4b0-fae9-4cd3-a4d6-97d850a4076a	55	male	Patienten mit seltenen Tumorerkrankungen	2022-04-01	C78.7	38	0:LIVING	Erstdiagnose	okkult	38	1:Recurred/Progressed
+523f7133-1710-466e-8e2c-7d1ea78304c3 	55	female	Verdacht auf Hereditäre Tumorerkrankung	2021-03-26	C56.2	51	0:LIVING	Progrediente Erkrankung	III	51	1:Recurred/Progressed
+2b4aeb7c-c9e8-4c7f-9379-1f96f1b5d5cb 	55	female	Patient ohne weitere leitliniengerechte Therapieoptionen	2021-12-01	C20	42	0:LIVING	Stable Disease	IV	42	1:Recurred/Progressed
+3aa1c7fb-90b5-43e2-bc3f-68ed471af187	55	female	Junges Erkrankungsalter bezogen auf Tumorentität	2022-02-01	C15.9	40	0:LIVING	Progrediente Erkrankung	IVA	40	1:Recurred/Progressed
+ddf29229-8b1c-48df-bdd9-d97c6896d365 	55	male	Patient ohne weitere leitliniengerechte Therapieoptionen	2013-10-31	C16.0	141	0:LIVING	Progrediente Erkrankung		141	1:Recurred/Progressed
+7be4d94e-5f93-49ac-b416-0e19163a6c58	55	male	Patienten mit seltenen Tumorerkrankungen;Seltene Histologie	2021-07-01	C17.0	48	0:LIVING	Teilremission	III	48	1:Recurred/Progressed
+fdfc3b53-617a-4ac1-b4d6-91d5b249bb90	55	female	Verdacht auf Hereditäre Tumorerkrankung	2019-01-15	C56.0	78	0:LIVING	Lokoregionaeres Rezidiv	IIIA1	78	1:Recurred/Progressed

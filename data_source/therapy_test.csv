@@ -1,0 +1,18 @@
+PatientId,Id,orderNumber,MedicationCode,MedicationName,DiseaseStatusCodeAtRecommendation,DiseaseStatusAtRecommendation,RecommendedUseCode,RecommendedUse,evidenceCode,evidenceLevel,reasonId
+8c52a4b0-fae9-4cd3-a4d6-97d850a4076a,bacd886f-f223-46b9-8ba7-32497ff65f5a,1,,,C35571,Progressive Disease,C28237,Clinical Practice Guidelines,,,db0d0
+523f7133-1710-466e-8e2c-7d1ea78304c3 ,bacd886f-f223-46b9-8ba7-32497ff65f5a,2,L01XK01,Olaparib,C18058,Partial Remission,C125600,Off-Label Treatment,,,efe1c
+2b4aeb7c-c9e8-4c7f-9379-1f96f1b5d5cb ,68fc147e-73b6-4f5e-b882-3b88f5be9bee,1,L01XC41,Trastuzumab deruxtecan,C35571,Progressive Disease,C125600,Off-Label Treatment,m2B,In einer anderen Tumorentität wurde der prädiktive Wert des Biomarkers oder die klinische Wirksamkeit in einer retrospektiven Kohorte oder Fall-Kontroll-Studie gezeigt.,202d1
+2b4aeb7c-c9e8-4c7f-9379-1f96f1b5d5cb ,68fc147e-73b6-4f5e-b882-3b88f5be9bee,1,L01XC14,Trastuzumab emtansin,C35571,Progressive Disease,C71104,Clinical Trial,,,1eb33
+2b4aeb7c-c9e8-4c7f-9379-1f96f1b5d5cb ,68fc147e-73b6-4f5e-b882-3b88f5be9bee,2,L01EM03,Alpelisib,C35571,Progressive Disease,C125600,Off-Label Treatment,m2B,In einer anderen Tumorentität wurde der prädiktive Wert des Biomarkers oder die klinische Wirksamkeit in einer retrospektiven Kohorte oder Fall-Kontroll-Studie gezeigt.,faa1f
+523f7133-1710-466e-8e2c-7d1ea78304c3 ,e6739c79-a063-4108-9958-862bfe35a613,1,L01XC06,Cetuximab,C35571,Progressive Disease,C28237,Clinical Practice Guidelines,,,0efe1
+523f7133-1710-466e-8e2c-7d1ea78304c3 ,e6739c79-a063-4108-9958-862bfe35a613,2,,,C35571,Progressive Disease,,,m1C,Ein oder mehrere Fallberichte in der gleichen Tumorentität.,add3b
+3aa1c7fb-90b5-43e2-bc3f-68ed471af187,47c93fa1-761e-46e7-9690-493ec30873b6,1,L01XC41,Trastuzumab deruxtecan,C35571,Progressive Disease,C125600,Off-Label Treatment,m2A,In einer anderen Tumorentität wurde der prädiktive Wert des Biomarkers oder die klinische Wirksamkeit in einer Biomarker-stratifizierten Kohorte einer adäquat gepowerten prospektiven Studie oder Metaanalyse gezeigt.,e1bea
+3aa1c7fb-90b5-43e2-bc3f-68ed471af187,47c93fa1-761e-46e7-9690-493ec30873b6,2,L01XC41,Trastuzumab deruxtecan,C35571,Progressive Disease,C28237,Clinical Practice Guidelines,,,ec22a
+ddf29229-8b1c-48df-bdd9-d97c6896d365 ,aeb23ab8-52f0-45e7-bfec-f312b4d82c02,1,folfox-6,FOLFOX-6,C35571,Progrediente Erkrankung,C28237,Leitlinie,,,d0bf3
+ddf29229-8b1c-48df-bdd9-d97c6896d365 ,aeb23ab8-52f0-45e7-bfec-f312b4d82c02,2,L01XX46,Olaparib,C35571,Progrediente Erkrankung,C125600,Off-Label,m2A,In einer anderen Tumorentität wurde der prädiktive Wert des Biomarkers oder die klinische Wirksamkeit in einer Biomarker-stratifizierten Kohorte einer adäquat gepowerten prospektiven Studie oder Metaanalyse gezeigt.,1eb33
+7be4d94e-5f93-49ac-b416-0e19163a6c58,c96c2caf-c143-4cbf-a445-f6e178d08032,1,L01BC05,Gemcitabin,C35571,Progressive Disease,C28237,Clinical Practice Guidelines,,,a2ac3
+7be4d94e-5f93-49ac-b416-0e19163a6c58,c96c2caf-c143-4cbf-a445-f6e178d08032,1,L01BC05,Gemcitabin,C35571,Progressive Disease,C71104,Clinical Trial,,,v
+9c545c7c-5fb5-4708-86ce-ca470d3fabb2,b76aa77e-0b96-4754-8b09-189f281329bf,1,L01XA02,Carboplatin,C35571,Progrediente Erkrankung,,,,,1fed1
+fdfc3b53-617a-4ac1-b4d6-91d5b249bb90,b466142a-9249-4331-8d00-12c3911005af,1,gem-nabpaclitaxel,Gem-nabPaclitaxel,C35571,Progrediente Erkrankung,C28237,Leitlinie,,,e2c31
+fdfc3b53-617a-4ac1-b4d6-91d5b249bb90,b466142a-9249-4331-8d00-12c3911005af,2,lv5fu2,LV5FU2,C35571,Progrediente Erkrankung,C28237,Leitlinie,,,0dd1b
+fdfc3b53-617a-4ac1-b4d6-91d5b249bb90,b466142a-9249-4331-8d00-12c3911005af,3,L01BC05,Gemcitabin,C35571,Progrediente Erkrankung,C125600,Off-Label,m1C,Ein oder mehrere Fallberichte in der gleichen Tumorentität.,31cc2

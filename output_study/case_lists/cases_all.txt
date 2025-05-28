@@ -1,0 +1,6 @@
+cancer_study_identifier:	data_export_study
+stable_id:	data_export_study_all
+case_list_name:	All samples
+case_list_description:	All samples (7 samples)
+case_list_category:	all_cases_in_study
+case_list_ids:	MOLIT-5679cb	MOLIT-e19430	MOLIT-8698a2	MOLIT-41ec0e	MOLIT-301348	MOLIT-0934c4	MOLIT-92d453

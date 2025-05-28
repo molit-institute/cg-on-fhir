@@ -1,0 +1,86 @@
+id,PatientId,TherapyTypeProcedure,TherapyStart,TherapyEnd,Notes
+dd1c0cad-8c86-4364-90c6-4205cdf68ed0,8c52a4b0-fae9-4cd3-a4d6-97d850a4076a,Systemic therapy,2022-05,2022-06,Bevacizumab
+a781a84d-06dd-41a1-8936-6d879e28b124,8c52a4b0-fae9-4cd3-a4d6-97d850a4076a,Systemic therapy,2022-05,2022-06,Atezolizumab
+097781a2-9446-4acc-be7a-3139a82ebcec,8c52a4b0-fae9-4cd3-a4d6-97d850a4076a,Tumor Resection,2022-06,4/27/18,cTACE
+d3c0fd02-cf88-47cd-97c2-2988cb392b0e,523f7133-1710-466e-8e2c-7d1ea78304c3 ,,2022-09,4/12/18,Erstdiagnose
+4c6cad06-698a-4a43-9620-c73707a7e8dd,523f7133-1710-466e-8e2c-7d1ea78304c3 ,Tumor Resection,2022-09,,Probenentnahme durch Punktion einer großen Leber-RF imn SVI mit Leberdeckung
+873cd44a-c26b-4dc3-b40c-86cf7a9d072d,523f7133-1710-466e-8e2c-7d1ea78304c3 ,Systemic therapy,2022-10,,FOLFOX-6
+0a408691-f025-46ee-ab60-c58187332d5a,523f7133-1710-466e-8e2c-7d1ea78304c3 ,,2022-11,,Stable Disease
+e6520239-8504-4c9c-a731-6242694f1fc2,2b4aeb7c-c9e8-4c7f-9379-1f96f1b5d5cb ,Systemic therapy,2022-01,2022-05,FOLFIRI
+b978cc9c-7f3c-4da5-8acf-bdb63a34555e,2b4aeb7c-c9e8-4c7f-9379-1f96f1b5d5cb ,,2022-01,,Erstdiagnose
+9c527d80-5e0b-4d28-a051-c76831ec8205,2b4aeb7c-c9e8-4c7f-9379-1f96f1b5d5cb ,Tumor Resection,2022-01,,Tumorperfortátion im Rektum mit mechanischem Dickdarmileus und septischem Schock
+3d26e7e1-9321-4d29-8e2e-54bfe2371304,2b4aeb7c-c9e8-4c7f-9379-1f96f1b5d5cb ,Systemic therapy,2022-04,2022-05,Bevacizumab
+7b512fcb-9a63-4d65-90b3-0a8c0fab1b47,2b4aeb7c-c9e8-4c7f-9379-1f96f1b5d5cb ,,2022-10,,Progrediente Erkrankung
+8352720e-2b5a-4714-a1dd-408a546b1531,2b4aeb7c-c9e8-4c7f-9379-1f96f1b5d5cb ,Systemic therapy,2022-11,2022-12,FOLFOX-6
+e38f30b8-5f49-4ca6-a110-c7e04ce7ed50,2b4aeb7c-c9e8-4c7f-9379-1f96f1b5d5cb ,,2023-02,,Progrediente Erkrankung
+2ec6a499-bdfb-4736-be5b-fafb749dbfcf,2b4aeb7c-c9e8-4c7f-9379-1f96f1b5d5cb ,Systemic therapy,2023-03,,Trifluridin
+80da63c7-fdaf-4d13-ac4d-f3a9249ed2f1,06107d88-96b8-4277-8627-28386ff1dda3,,9/7/20,,Progrediente Erkrankung
+936c41bf-9ae1-49be-875c-c3a5c5be76ff,06107d88-96b8-4277-8627-28386ff1dda3,Systemic therapy,10/8/20,2/18/21,Epirubicin (Farmorubicin®)
+2908cbca-b6c5-46ca-8c90-8538039c6fb6,06107d88-96b8-4277-8627-28386ff1dda3,Systemic therapy,10/8/20,2/18/21,Cyclophosphamid (Endoxan®)
+6d88f76d-e355-4bb2-bdf1-17dee6bc50f8,06107d88-96b8-4277-8627-28386ff1dda3,Systemic therapy,10/8/20,2/18/21,Paclitaxel (Taxol®)
+f0084c60-e5a7-4a00-934b-0aaf2735070e,06107d88-96b8-4277-8627-28386ff1dda3,Systemic therapy,12/23/20,3/19/21,Trastuzumab
+e170f7c5-3011-4d99-9ceb-d74467716064,06107d88-96b8-4277-8627-28386ff1dda3,Systemic therapy,12/23/20,3/19/21,Pertuzumab (Perjeta®)
+8be0ff50-ead3-46af-881a-913efc3b543f,06107d88-96b8-4277-8627-28386ff1dda3,Tumor Resection,4/7/21,,5-870.a2
+1a984063-7abd-464c-be46-39c0540d8141,06107d88-96b8-4277-8627-28386ff1dda3,,5/26/21,,Vollremission
+8dbcbd53-596a-40e9-a4f9-0c16ce617826,06107d88-96b8-4277-8627-28386ff1dda3,,11/9/21,,Progrediente Erkrankung
+c6863b12-df6e-452b-98e1-156ecf3295fe,06107d88-96b8-4277-8627-28386ff1dda3,Tumor Resection,12/21/21,,5-872.1
+54b4169e-0a23-44c1-a6b6-c17fb79e9de4,06107d88-96b8-4277-8627-28386ff1dda3,Tumor Resection,12/28/21,,5-879.x
+fd9ea427-f038-46ba-8f37-fe8bab3fa8e8,06107d88-96b8-4277-8627-28386ff1dda3,Tumor Resection,1/4/22,,5-874.4
+52c442b7-fac2-4dc6-a6ea-baac586a16e3,06107d88-96b8-4277-8627-28386ff1dda3,Systemic therapy,3/14/22,3/31/22,Paclitaxel (Taxol®)
+e8ed2c2f-e2aa-47df-9901-5397f3ca1454,06107d88-96b8-4277-8627-28386ff1dda3,Systemic therapy,3/14/22,3/31/22,Carboplatin
+a1053b2c-6516-479e-a924-1c21dd7dbd26,3aa1c7fb-90b5-43e2-bc3f-68ed471af187,Tumor Resection,2022-02,,Biopsie Primarius
+67d61bc9-60a0-4493-9cff-3adddd0ba791,3aa1c7fb-90b5-43e2-bc3f-68ed471af187,Radiation Therapy,2022-03,2022-04,simultan bis 05/2022 Chemotherapie analog CROSS
+9b7d1f35-0dee-40b8-b423-dd9765a0a4f7,3aa1c7fb-90b5-43e2-bc3f-68ed471af187,,2022-05,,Teilremission
+972f39e3-b52c-4558-ac7d-9660d5daa4c1,3aa1c7fb-90b5-43e2-bc3f-68ed471af187,Tumor Resection,2022-06,,Ösophagusresektion
+f3d08efd-9177-4245-9395-01b7619995fc,3aa1c7fb-90b5-43e2-bc3f-68ed471af187,,2022-12,,Progrediente Erkrankung
+8d49ee61-4d8c-4d31-bf61-4168161e24e8,3aa1c7fb-90b5-43e2-bc3f-68ed471af187,Systemic therapy,2022-12,,Trastuzumab
+316d2ba9-a10e-4be5-b66e-84d577f39afb,3aa1c7fb-90b5-43e2-bc3f-68ed471af187,Systemic therapy,2022-12,2023-02,FLOT
+4db30180-5c49-4f91-8e53-c4279ac48f37,3aa1c7fb-90b5-43e2-bc3f-68ed471af187,Systemic therapy,2023-02,,Docetaxel
+08b7eab1-417c-4691-8a17-3e13dd8ef068,3aa1c7fb-90b5-43e2-bc3f-68ed471af187,Systemic therapy,2023-02,,FLO
+708a8756-807f-4924-9f1b-0e2754e6563b,3aa1c7fb-90b5-43e2-bc3f-68ed471af187,,2023-04,,Progrediente Erkrankung
+3e7a8db0-6fe5-4ff4-a45c-f3b7719cfc80,3aa1c7fb-90b5-43e2-bc3f-68ed471af187,Tumor Resection,2023-04,,Ösophagusresektion
+7b3b474b-4b5a-46d1-b6ac-7bd81a316dfb,3aa1c7fb-90b5-43e2-bc3f-68ed471af187,Radiation Therapy,2023-05,,lokal
+537a406d-ac84-4d16-9e73-9d18d45c384f,ddf29229-8b1c-48df-bdd9-d97c6896d365,Systemic therapy,12/19/13,2/12/14,Docetaxel
+53937cc5-09da-4c61-8940-2bf7c63f771e,ddf29229-8b1c-48df-bdd9-d97c6896d365,Systemic therapy,12/19/13,2/12/14,Oxaliplatin
+9ffad5b5-8abd-4b85-bdd2-06364f7c8c50,ddf29229-8b1c-48df-bdd9-d97c6896d365,Systemic therapy,12/19/13,2/12/14,5-Fluorouracil (5-FU)
+d99e735d-1fc1-4be5-b5fe-09db053e88f3,ddf29229-8b1c-48df-bdd9-d97c6896d365,Systemic therapy,12/19/13,2/12/14,Folinsäure (Calciumfolinat)
+39314430-5512-4496-94d3-5591e5e974f8,ddf29229-8b1c-48df-bdd9-d97c6896d365,Tumor Resection,4/3/14,,5-437.23
+6d6f471f-45ce-45f1-8b07-f3fcfb0b28db,ddf29229-8b1c-48df-bdd9-d97c6896d365,,5/12/14,,Teilremission
+e0aefe03-470f-43d5-800a-a7e8d01979e3,ddf29229-8b1c-48df-bdd9-d97c6896d365,Systemic therapy,6/10/14,7/7/14,5-Fluorouracil (5-FU)
+ce41f1ea-652b-4517-b80b-aa79124c4932,ddf29229-8b1c-48df-bdd9-d97c6896d365,Radiation Therapy,6/10/14,7/15/14,
+b639ba1d-84c5-433d-8e5d-1b8b4510ee80,ddf29229-8b1c-48df-bdd9-d97c6896d365,,9/3/14,,Vollremission
+53b97cd5-61f0-4042-80c2-56c4b6022550,ddf29229-8b1c-48df-bdd9-d97c6896d365,,12/4/19,,Progrediente Erkrankung
+79050020-ea03-450e-8cb9-61aa56bac478,ddf29229-8b1c-48df-bdd9-d97c6896d365,,12/4/19,,Neue Fernmetastasierung
+447cab00-dc00-46fb-a437-109288f9d1e9,ddf29229-8b1c-48df-bdd9-d97c6896d365,Tumor Resection,12/5/19,,5-455.61
+eadc092d-3708-42ad-b392-22a91da67b6c,ddf29229-8b1c-48df-bdd9-d97c6896d365,Systemic therapy,2/17/20,3/19/20,Capecitabin
+75a796f1-784b-4984-aefc-0b62b8a35fce,ddf29229-8b1c-48df-bdd9-d97c6896d365,Radiation Therapy,2/17/20,3/19/20,links - 41.4 Gy
+49faeedb-8d6b-4920-9200-7c179c2eea5f,ddf29229-8b1c-48df-bdd9-d97c6896d365,,6/18/20,,Vollremission
+e244909c-fdcc-427c-ba7e-52a57be42090,ddf29229-8b1c-48df-bdd9-d97c6896d365,,12/9/20,,Progrediente Erkrankung
+6b364e04-0aa2-471f-ad2a-63a4ce333f66,ddf29229-8b1c-48df-bdd9-d97c6896d365,,12/9/20,,Neue Fernmetastasierung
+a530b721-e888-4268-842b-3931fcba030a,ddf29229-8b1c-48df-bdd9-d97c6896d365,Systemic therapy,12/10/20,4/9/21,5-Fluorouracil (5-FU)
+7b00e4ee-11c2-451f-83df-4953cc15947e,ddf29229-8b1c-48df-bdd9-d97c6896d365,Systemic therapy,12/10/20,4/9/21,Oxaliplatin
+c9ddca1f-203a-4217-a161-ce602ac99b46,ddf29229-8b1c-48df-bdd9-d97c6896d365,Systemic therapy,12/10/20,4/9/21,Folinsäure (Calciumfolinat)
+c2475873-6b95-4ed0-819f-92a9d353c172,ddf29229-8b1c-48df-bdd9-d97c6896d365,,2/10/21,,Stable Disease
+4f664c76-aee6-4687-9676-ba7e1f40881a,ddf29229-8b1c-48df-bdd9-d97c6896d365,,4/14/21,,Stable Disease
+1b5e0828-18ef-4cb8-9eeb-519b236d9ddc,ddf29229-8b1c-48df-bdd9-d97c6896d365,Systemic therapy,6/1/21,10/20/21,Ramucirumab
+d23d95c4-9d1d-431d-9016-7577c2c22315,ddf29229-8b1c-48df-bdd9-d97c6896d365,Systemic therapy,6/1/21,10/20/21,Paclitaxel
+edb0eb32-a88a-4723-a8e0-416f9f4c92b4,ddf29229-8b1c-48df-bdd9-d97c6896d365,,7/27/21,,Stable Disease
+be1dea55-1afc-45bb-b437-6e7b7cac4f62,ddf29229-8b1c-48df-bdd9-d97c6896d365,,10/25/21,,Stable Disease
+30e64935-a758-4a56-ade1-76fa554e1efa,ddf29229-8b1c-48df-bdd9-d97c6896d365,,11/23/21,,Progrediente Erkrankung
+26c19f6f-6e9c-471d-a6f0-f76ed3fec713,ddf29229-8b1c-48df-bdd9-d97c6896d365,Systemic therapy,11/26/21,12/14/21,5-Fluorouracil (5-FU)
+58c68486-e2af-4b0b-811c-51db510ffe32,ddf29229-8b1c-48df-bdd9-d97c6896d365,Systemic therapy,11/26/21,12/14/21,Irinotecan
+638799e2-876a-4f94-a2b0-9e6f816f30ef,ddf29229-8b1c-48df-bdd9-d97c6896d365,Systemic therapy,11/26/21,12/14/21,Folinsäure (Calciumfolinat)
+9beb465b-05ec-474b-8080-a965b4d13bbc,ddf29229-8b1c-48df-bdd9-d97c6896d365,Systemic therapy,1/7/22,,Ramucirumab
+b517a375-f7be-49c1-8bef-8508887161a3,ddf29229-8b1c-48df-bdd9-d97c6896d365,Systemic therapy,1/7/22,,Irinotecan
+3fa55bc3-8fd5-4b70-aba0-69479916a01b,ddf29229-8b1c-48df-bdd9-d97c6896d365,Systemic therapy,1/7/22,,5-Fluorouracil (5-FU)
+4e28f0cc-aa0a-4605-987f-ebb05220e106,ddf29229-8b1c-48df-bdd9-d97c6896d365,Systemic therapy,1/7/22,,Folinsäure (Calciumfolinat)
+bead3a61-4f9c-472d-a4fa-cc42d2d7bcb4,7be4d94e-5f93-49ac-b416-0e19163a6c58,Tumor Resection,2021-07,,
+dd57f70b-6a1c-42a2-8697-037f11f7ab3e,7be4d94e-5f93-49ac-b416-0e19163a6c58,,2021-10,,Neue Fernmetastasierung
+eaec88ac-7433-4057-8856-5cdebb021dba,7be4d94e-5f93-49ac-b416-0e19163a6c58,,2022-01,,Progrediente Erkrankung
+643a9069-23d5-4a61-b60d-f516d2f118a8,7be4d94e-5f93-49ac-b416-0e19163a6c58,Systemic therapy,2022-01,,FOLFOX-6
+aa719ceb-9cc5-4d1b-b10a-5da6d1f3963a,9c545c7c-5fb5-4708-86ce-ca470d3fabb2,,8/22/21,,Progrediente Erkrankung
+34db3dc3-6560-4b48-81af-9f72324c1254,9c545c7c-5fb5-4708-86ce-ca470d3fabb2,Systemic therapy,8/31/21,,Docetaxel
+8ca1bc30-fec7-45bd-a1f9-48fc2f9f7296,fdfc3b53-617a-4ac1-b4d6-91d5b249bb90,Systemic therapy,12/8/21,,Oxaliplatin
+0bfbd2e5-20b3-4ceb-aed3-566683ffec20,fdfc3b53-617a-4ac1-b4d6-91d5b249bb90,Systemic therapy,12/8/21,,5-Fluorouracil (5-FU)
+8dd63dd8-4c6d-46d1-b84b-72c0055ea4da,fdfc3b53-617a-4ac1-b4d6-91d5b249bb90,Systemic therapy,12/8/21,,Irinotecan
+1cc53db8-eb5e-4487-b220-8dbfe8586fb8,fdfc3b53-617a-4ac1-b4d6-91d5b249bb90,Systemic therapy,12/8/21,,Folinsäure (Calciumfolinat)
